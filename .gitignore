@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+*.eggs/
+.Python
+build/
+dist/
+pip-wheel-metadata/
+.venv/
+venv/
+.idea/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+.env.*
+
+# Node / frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.log
+
+# Docker artifacts
+*.pid
+.docker/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage / reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# Misc
+*.swp
+*.swo
+.vscode/
+
