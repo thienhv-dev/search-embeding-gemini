@@ -1,5 +1,11 @@
 # Gemini Product Search Stack
 
+## 🧩 System Abstraction Overview
+
+<div align="center">
+  <img src="docs/images/System_Abstraction_Overview.png" alt="System Abstraction Overview" width="750"/>
+</div>
+
 This repository contains an end-to-end example of a product catalogue search
 pipeline that combines:
 
